@@ -76,6 +76,7 @@ button { /* Formata o botão do formulário de contato*/
     ul {
         font-size: 10px;
         align-items: center; /* organiza o texto do menu */
+        display: block;
     }
 
     img {
