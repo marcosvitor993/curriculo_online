@@ -68,4 +68,22 @@ button { /* Formata o botão do formulário de contato*/
     color: red;/* Coloca o * em vermelho, indicando que o campo é obrigatóriio.*/
 }
 
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 12px; 
+    }
+
+    ul {
+        font-size: 10px;
+        align-items: center; /* organiza o texto do menu */
+    }
+
+    img {
+        width: 100%; 
+        height: auto; /* Permite que a altura da imagem seja ajustada automaticamente */
+    }
+
+}
+
+
 
